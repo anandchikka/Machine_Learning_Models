@@ -1,2 +1,2 @@
-# Machine_Learning_Models
+# Sonar_Rock_Or_Mine_Model
  
